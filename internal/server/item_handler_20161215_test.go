@@ -8,10 +8,10 @@ import (
 
 	"github.com/appleboy/gofight"
 	"github.com/gofrs/uuid"
-	"github.com/mdouchement/standardfile/internal/model"
-	"github.com/mdouchement/standardfile/internal/server"
-	"github.com/mdouchement/standardfile/internal/server/service"
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/internal/model"
+	"github.com/cherya/standardfile/internal/server"
+	"github.com/cherya/standardfile/internal/server/service"
+	"github.com/cherya/standardfile/pkg/libsf"
 	"github.com/stretchr/testify/assert"
 )
 

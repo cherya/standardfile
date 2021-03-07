@@ -1,8 +1,8 @@
 package serializer
 
 import (
-	"github.com/mdouchement/standardfile/internal/model"
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/internal/model"
+	"github.com/cherya/standardfile/pkg/libsf"
 )
 
 // User serializes the render of a user.

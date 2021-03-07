@@ -7,9 +7,9 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/mdouchement/middlewarex"
-	"github.com/mdouchement/standardfile/internal/database"
-	"github.com/mdouchement/standardfile/internal/model"
-	"github.com/mdouchement/standardfile/internal/sferror"
+	"github.com/cherya/standardfile/internal/database"
+	"github.com/cherya/standardfile/internal/model"
+	"github.com/cherya/standardfile/internal/sferror"
 	"github.com/o1egl/paseto/v2"
 	"github.com/pkg/errors"
 )

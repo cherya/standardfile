@@ -4,10 +4,10 @@ import (
 	"net/http"
 
 	"github.com/labstack/echo/v4"
-	"github.com/mdouchement/standardfile/internal/database"
-	"github.com/mdouchement/standardfile/internal/server/serializer"
-	sessionpkg "github.com/mdouchement/standardfile/internal/server/session"
-	"github.com/mdouchement/standardfile/internal/sferror"
+	"github.com/cherya/standardfile/internal/database"
+	"github.com/cherya/standardfile/internal/server/serializer"
+	sessionpkg "github.com/cherya/standardfile/internal/server/session"
+	"github.com/cherya/standardfile/internal/sferror"
 	"github.com/pkg/errors"
 )
 

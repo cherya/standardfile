@@ -7,7 +7,7 @@ import (
 	"github.com/asdine/storm/v3/codec/msgpack"
 	"github.com/asdine/storm/v3/q"
 	"github.com/gofrs/uuid"
-	"github.com/mdouchement/standardfile/internal/model"
+	"github.com/cherya/standardfile/internal/model"
 	"github.com/pkg/errors"
 )
 

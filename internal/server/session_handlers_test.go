@@ -9,7 +9,7 @@ import (
 
 	"github.com/appleboy/gofight"
 	"github.com/gofrs/uuid"
-	"github.com/mdouchement/standardfile/internal/server/session"
+	"github.com/cherya/standardfile/internal/server/session"
 	"github.com/stretchr/testify/assert"
 )
 

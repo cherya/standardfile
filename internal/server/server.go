@@ -8,10 +8,10 @@ import (
 
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
-	"github.com/mdouchement/standardfile/internal/database"
-	"github.com/mdouchement/standardfile/internal/model"
-	"github.com/mdouchement/standardfile/internal/server/middlewares"
-	"github.com/mdouchement/standardfile/internal/server/session"
+	"github.com/cherya/standardfile/internal/database"
+	"github.com/cherya/standardfile/internal/model"
+	"github.com/cherya/standardfile/internal/server/middlewares"
+	"github.com/cherya/standardfile/internal/server/session"
 )
 
 // A Controller is an Iversion Of Control pattern used to init the server package.

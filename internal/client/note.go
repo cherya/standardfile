@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mdouchement/standardfile/internal/client/tui"
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/internal/client/tui"
+	"github.com/cherya/standardfile/pkg/libsf"
 	"github.com/pkg/errors"
 )
 

@@ -1,6 +1,6 @@
 package service
 
-import "github.com/mdouchement/standardfile/internal/model"
+import "github.com/cherya/standardfile/internal/model"
 
 // M is an arbitrary map.
 type M map[string]interface{}

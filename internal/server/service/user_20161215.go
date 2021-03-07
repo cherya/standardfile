@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
-	"github.com/mdouchement/standardfile/internal/model"
-	"github.com/mdouchement/standardfile/internal/server/serializer"
+	"github.com/cherya/standardfile/internal/model"
+	"github.com/cherya/standardfile/internal/server/serializer"
 )
 
 type userService20161215 struct {
@@ -44,7 +44,7 @@ func (s *userService20161215) CreateJWT(u *model.User) string {
 	claims := token.Claims.(jwt.MapClaims)
 	claims["user_uuid"] = u.ID
 	// claims["pw_hash"] = fmt.Sprintf("%x", sha256.Sum256([]byte(u.Password))) // See readme
-	claims["iss"] = "github.com/mdouchement/standardfile"
+	claims["iss"] = "github.com/cherya/standardfile"
 	claims["iat"] = time.Now().Unix() // Unix Timestamp in seconds
 
 	t, err := token.SignedString(s.sessions.JWTSigningKey())

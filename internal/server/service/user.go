@@ -5,10 +5,10 @@ import (
 	"time"
 
 	argon2 "github.com/mdouchement/simple-argon2"
-	"github.com/mdouchement/standardfile/internal/database"
-	"github.com/mdouchement/standardfile/internal/model"
-	"github.com/mdouchement/standardfile/internal/server/session"
-	"github.com/mdouchement/standardfile/internal/sferror"
+	"github.com/cherya/standardfile/internal/database"
+	"github.com/cherya/standardfile/internal/model"
+	"github.com/cherya/standardfile/internal/server/session"
+	"github.com/cherya/standardfile/internal/sferror"
 	"github.com/pkg/errors"
 )
 

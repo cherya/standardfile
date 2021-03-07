@@ -1,6 +1,6 @@
 package model
 
-import "github.com/mdouchement/standardfile/pkg/libsf"
+import "github.com/cherya/standardfile/pkg/libsf"
 
 // A User represents a database record.
 type User struct {

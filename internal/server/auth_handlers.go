@@ -7,11 +7,11 @@ import (
 	"os"
 
 	"github.com/labstack/echo/v4"
-	"github.com/mdouchement/standardfile/internal/database"
-	"github.com/mdouchement/standardfile/internal/server/service"
-	"github.com/mdouchement/standardfile/internal/server/session"
-	"github.com/mdouchement/standardfile/internal/sferror"
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/internal/database"
+	"github.com/cherya/standardfile/internal/server/service"
+	"github.com/cherya/standardfile/internal/server/session"
+	"github.com/cherya/standardfile/internal/sferror"
+	"github.com/cherya/standardfile/pkg/libsf"
 )
 
 // auth contains all authentication handlers.

@@ -1,7 +1,7 @@
 # Yet Another Standardfile Implementation in Go
 
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/mdouchement/standardfile)
-[![Go Report Card](https://goreportcard.com/badge/github.com/mdouchement/standardfile)](https://goreportcard.com/report/github.com/mdouchement/standardfile)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/cherya/standardfile)
+[![Go Report Card](https://goreportcard.com/badge/github.com/cherya/standardfile)](https://goreportcard.com/report/github.com/cherya/standardfile)
 [![License](https://img.shields.io/github/license/mdouchement/standardfile.svg)](http://opensource.org/licenses/MIT)
 
 This is a 100% Golang implementation of the [Standard File](https://standardfile.org/) protocol. It aims to be **portable** and **lightweight**.
@@ -17,7 +17,7 @@ https://hub.docker.com/r/mdouchement/standardfile
 ### Client library
 
 Go to `pgk/libsf` for more details.
-https://godoc.org/github.com/mdouchement/standardfile/pkg/libsf
+https://godoc.org/github.com/cherya/standardfile/pkg/libsf
 
 It is an alternative to https://github.com/jonhadfield/gosn
 

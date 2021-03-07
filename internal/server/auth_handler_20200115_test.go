@@ -10,9 +10,9 @@ import (
 
 	"github.com/appleboy/gofight"
 	"github.com/labstack/echo/v4"
-	"github.com/mdouchement/standardfile/internal/server/session"
-	"github.com/mdouchement/standardfile/internal/sferror"
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/internal/server/session"
+	"github.com/cherya/standardfile/internal/sferror"
+	"github.com/cherya/standardfile/pkg/libsf"
 	"github.com/stretchr/testify/assert"
 	"github.com/valyala/fastjson"
 )

@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mdouchement/standardfile/internal/database"
-	"github.com/mdouchement/standardfile/internal/model"
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/internal/database"
+	"github.com/cherya/standardfile/internal/model"
+	"github.com/cherya/standardfile/pkg/libsf"
 )
 
 type (

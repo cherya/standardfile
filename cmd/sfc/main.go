@@ -5,7 +5,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/mdouchement/standardfile/internal/client"
+	"github.com/cherya/standardfile/internal/client"
 	"github.com/spf13/cobra"
 )
 

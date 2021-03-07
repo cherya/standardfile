@@ -7,7 +7,7 @@ import (
 
 	"github.com/gofrs/uuid"
 	"github.com/labstack/echo/v4"
-	"github.com/mdouchement/standardfile/internal/sferror"
+	"github.com/cherya/standardfile/internal/sferror"
 )
 
 // HTTPErrorHandler is a middleware that formats rendered errors.

@@ -1,8 +1,8 @@
 package session
 
 import (
-	"github.com/mdouchement/standardfile/internal/model"
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/internal/model"
+	"github.com/cherya/standardfile/pkg/libsf"
 )
 
 // SessionProtocolVersion is the account version starting the support of sessions.

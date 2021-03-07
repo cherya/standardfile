@@ -1,4 +1,4 @@
-module github.com/mdouchement/standardfile
+module github.com/cherya/standardfile
 
 go 1.14
 

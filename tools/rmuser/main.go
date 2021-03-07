@@ -6,8 +6,8 @@ import (
 
 	"github.com/asdine/storm/v3"
 	"github.com/asdine/storm/v3/q"
-	"github.com/mdouchement/standardfile/internal/database"
-	"github.com/mdouchement/standardfile/internal/model"
+	"github.com/cherya/standardfile/internal/database"
+	"github.com/cherya/standardfile/internal/model"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

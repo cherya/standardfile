@@ -13,7 +13,7 @@ import (
 	"github.com/gcla/gowid/widgets/text"
 	"github.com/gcla/gowid/widgets/vscroll"
 	"github.com/gdamore/tcell"
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/pkg/libsf"
 )
 
 // An Item is the graphical representation of an libsf.Item.

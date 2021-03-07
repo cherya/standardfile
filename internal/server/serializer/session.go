@@ -1,6 +1,6 @@
 package serializer
 
-import "github.com/mdouchement/standardfile/internal/model"
+import "github.com/cherya/standardfile/internal/model"
 
 // Session serializes the render of a session.
 func Session(m *model.Session) map[string]interface{} {

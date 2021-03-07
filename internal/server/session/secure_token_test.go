@@ -3,7 +3,7 @@ package session_test
 import (
 	"testing"
 
-	"github.com/mdouchement/standardfile/internal/server/session"
+	"github.com/cherya/standardfile/internal/server/session"
 	"github.com/stretchr/testify/assert"
 )
 

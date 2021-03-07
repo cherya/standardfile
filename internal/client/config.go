@@ -9,7 +9,7 @@ import (
 
 	"github.com/chzyer/readline"
 	sargon2 "github.com/mdouchement/simple-argon2"
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/pkg/libsf"
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/argon2"
 	"golang.org/x/crypto/chacha20poly1305"

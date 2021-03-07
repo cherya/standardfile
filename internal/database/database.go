@@ -3,7 +3,7 @@ package database
 import (
 	"time"
 
-	"github.com/mdouchement/standardfile/internal/model"
+	"github.com/cherya/standardfile/internal/model"
 )
 
 type (

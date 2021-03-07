@@ -7,7 +7,7 @@ import (
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 	"github.com/mdouchement/middlewarex"
-	"github.com/mdouchement/standardfile/internal/server/session"
+	"github.com/cherya/standardfile/internal/server/session"
 	"github.com/o1egl/paseto/v2"
 )
 

@@ -3,7 +3,7 @@ package sferror_test
 import (
 	"testing"
 
-	"github.com/mdouchement/standardfile/internal/sferror"
+	"github.com/cherya/standardfile/internal/sferror"
 	"github.com/stretchr/testify/assert"
 )
 

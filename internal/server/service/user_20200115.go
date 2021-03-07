@@ -4,12 +4,12 @@ import (
 	"net/http"
 
 	"github.com/labstack/echo/v4"
-	"github.com/mdouchement/standardfile/internal/model"
-	"github.com/mdouchement/standardfile/internal/server/serializer"
-	"github.com/mdouchement/standardfile/internal/server/session"
-	sessionpkg "github.com/mdouchement/standardfile/internal/server/session"
-	"github.com/mdouchement/standardfile/internal/sferror"
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/internal/model"
+	"github.com/cherya/standardfile/internal/server/serializer"
+	"github.com/cherya/standardfile/internal/server/session"
+	sessionpkg "github.com/cherya/standardfile/internal/server/session"
+	"github.com/cherya/standardfile/internal/sferror"
+	"github.com/cherya/standardfile/pkg/libsf"
 	"github.com/pkg/errors"
 )
 

@@ -6,9 +6,9 @@ import (
 	"log"
 
 	"github.com/asdine/storm/v3"
-	"github.com/mdouchement/standardfile/internal/database"
-	"github.com/mdouchement/standardfile/internal/model"
-	"github.com/mdouchement/standardfile/pkg/stormsql"
+	"github.com/cherya/standardfile/internal/database"
+	"github.com/cherya/standardfile/internal/model"
+	"github.com/cherya/standardfile/pkg/stormsql"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

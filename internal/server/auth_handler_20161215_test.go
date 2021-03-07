@@ -10,7 +10,7 @@ import (
 
 	"github.com/appleboy/gofight"
 	"github.com/labstack/echo/v4"
-	"github.com/mdouchement/standardfile/internal/server"
+	"github.com/cherya/standardfile/internal/server"
 	"github.com/stretchr/testify/assert"
 	"github.com/valyala/fastjson"
 )

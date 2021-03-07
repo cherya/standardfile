@@ -4,8 +4,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/mdouchement/standardfile/internal/model"
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/internal/model"
+	"github.com/cherya/standardfile/pkg/libsf"
 )
 
 const minConflictInterval20161215 = 20 // in second

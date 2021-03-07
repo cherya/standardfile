@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mdouchement/standardfile/pkg/libsf"
+	"github.com/cherya/standardfile/pkg/libsf"
 	"github.com/stretchr/testify/assert"
 )
 
