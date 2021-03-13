@@ -194,7 +194,7 @@ func (i *Item) Unseal(keychain *KeyChain) error {
 		return errors.Wrap(err, "could not parse items key")
 	case ContentTypeUserPreferences:
 		fallthrough
-	case ContentTypeNote:
+	case ContentTypeNote, "Tag":
 		i.Note = new(Note)
 		err = json.Unmarshal(payload, i.Note)
 		return errors.Wrap(err, "could not parse note")
